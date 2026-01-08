@@ -1,0 +1,9 @@
+{
+    "location": "Paris",
+    "forecast": [
+        {"day": "Mon", "weather": "Sunny", "high": 22, "low": 14},
+        {"day": "Tue", "weather": "Rain", "high": 19, "low": 12},
+        {"day": "Wed", "weather": "Cloudy", "high": 20, "low": 13}
+    ]
+}
+  
